@@ -26,23 +26,28 @@
   <img width="750" alt="" src="https://user-images.githubusercontent.com/76522430/212733750-da7dfa7a-06f2-464b-a42d-ffec70f4cb11.png">
 </div>
 <br><br>
+
 #### CREATE TABLE melon_top_100
 <div align=center>
   <img width="750" alt="" src="https://user-images.githubusercontent.com/76522430/212734583-82c3a9f1-c116-4145-88d5-2a0e5f381e20.png">
 </div>
 <br><br>
+
 #### SELECT * FROM mydatabase.melon_top_100;
 <div align=center>
   <img width="750" alt="" src="https://user-images.githubusercontent.com/76522430/212734666-b2c6d534-08e2-4c6a-9116-c382134d19d9.png">
 </div>
 <br><br>
+
 #### SELECT singer, sum(likes) FROM melon_top_100 GROUP BY singer LIMIT 10;
 <div align=center>
   <img  alt="" src="https://user-images.githubusercontent.com/76522430/212734862-0dbc887f-6abe-45db-a515-21768926747d.png">
 </div>
 <br><br>
+
 #### SELECT id, singer, likes FROM mydatabase.melon_top_100 ORDER BY likes DESC LIMIT 20;
 <div align=center>
   <img alt="" src="https://user-images.githubusercontent.com/76522430/212734886-6c0ddcf7-7f7e-48fb-b733-f294678aa2f4.png">
 </div>
+
 <br><br>
