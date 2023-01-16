@@ -1,8 +1,9 @@
-<h4>
+<h3>
 <a target="_blank" href="https://eminent-pruner-9ad.notion.site/1ed29d1da6df464390c238ddd6adfb99">
-   [배운것 & 트러블 슈팅]
+   [새롭게 배운 내용 & 트러블 슈팅]
 </a>
-</h4>
+</h3>
+<br>
 
 # 1. 소개
 
