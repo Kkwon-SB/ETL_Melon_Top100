@@ -1,5 +1,5 @@
 <h3>
-<a target="_blank" href="https://eminent-pruner-9ad.notion.site/1ed29d1da6df464390c238ddd6adfb99">
+<a target="_blank" href="https://eminent-pruner-9ad.notion.site/ETL_Melon_Top100-73def5680b7048958405e05835bc58ff">
    [새롭게 배운 내용 & 트러블 슈팅]
 </a>
 </h3>
