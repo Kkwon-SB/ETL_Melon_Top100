@@ -1,8 +1,8 @@
-<h3>
+<h4>
 <a target="_blank" href="https://eminent-pruner-9ad.notion.site/ETL_Melon_Top100-73def5680b7048958405e05835bc58ff">
-   [새롭게 배운 내용 & 트러블 슈팅]
+  [프로젝트에서 배운 내용 & 트러블 슈팅 과정]
 </a>
-</h3>
+</h4>
 <br>
 
 # 1. 소개
